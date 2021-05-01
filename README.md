@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img align="right" height=350 width="auto" src="image.JPG" />
 <p align=left>
   <a href="https://github.com/ranu-agrawal">
-    <img height=225 width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=ranu-agrawal&show_icons=true&theme=gotham"></a>
+    <img height=225 width="350em" align="center" src="https://github-readme-stats.vercel.app/api?username=ranu-agrawal&show_icons=true&theme=gotham"></a>
   <a href="https://github.com/nidh-ish">
     <img height=190 width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranu-agrawal&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" /> </a>
 </p>
